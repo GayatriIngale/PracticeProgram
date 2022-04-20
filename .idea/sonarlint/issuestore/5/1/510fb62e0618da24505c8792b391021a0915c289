@@ -1,0 +1,9 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(İä×•
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•Èñçùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Æ‹¹î
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+Q	java:S1252"<This block of commented-out lines of code should be removed.(‘Üã«
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£°Ñ€

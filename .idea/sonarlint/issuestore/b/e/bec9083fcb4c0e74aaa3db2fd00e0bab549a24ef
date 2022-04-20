@@ -1,0 +1,8 @@
+
+W
+java:S1126"AReplace this if-then-else statement by a single return statement.(–÷§
+h
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(Øº†’
+Q	java:S125"<This block of commented-out lines of code should be removed.(Şäšõ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8“«¼0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºÍ‘

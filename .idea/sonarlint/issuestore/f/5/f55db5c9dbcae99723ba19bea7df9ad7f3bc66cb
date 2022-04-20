@@ -1,0 +1,10 @@
+
+L
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8š³Ğ¡ÿ/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ùø¼8³Ğ¡ÿ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°¿¦ì8³Ğ¡ÿ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã×¾
+m
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¤Š¢¨8Ò¶Ó¡ÿ/
+k
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ûÕ¿Ì8Ò¶Ó¡ÿ/

@@ -1,0 +1,7 @@
+
+î
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ëñµ•8∆Œ‘»Ù/
+@
+java:S1197"*Move the array designators [] to the type.(ëñµ•
+0
+java:S1220""Move this file to a named package.

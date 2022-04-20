@@ -1,0 +1,13 @@
+
+E
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+:
+java:S1659"$Declare "cCount" on a separate line.(Í¶Ô·
+M	java:S106
+"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰ŸÀŸùÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.( åÜ•8ˆ©…º÷/
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“¢Êıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ß
