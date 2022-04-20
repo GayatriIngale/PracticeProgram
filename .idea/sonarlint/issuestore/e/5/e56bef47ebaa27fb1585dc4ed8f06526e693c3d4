@@ -1,7 +1,0 @@
-
-Y
-java:S1659">Declare "n" and all following declarations on a separate line.(¹ş»Ğıÿÿÿÿ
-D
-java:S1481")Remove this unused "temp" local variable.(¹ş»Ğıÿÿÿÿ
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ƒŒ8ñŒ„Ëÿ/
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë·„ı

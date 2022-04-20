@@ -1,12 +1,0 @@
-
-b
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(»ϋΊΞ8›ÿ/
-V	java:S125"<This block of commented-out lines of code should be removed.(ών‚“ώÿÿÿÿ
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ϊ…Νύÿÿÿÿ8’›ÿ/
-€
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¬ΐαªψÿÿÿÿ8’›ÿ/
-_
-java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(©Ψ®8’›ÿ/
-J	java:S108")Either remove or fill this block of code.(¬ΐαªψÿÿÿÿ8”›ÿ/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ϋ©‰8Ζϊ΅›ÿ/
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£±Ό
